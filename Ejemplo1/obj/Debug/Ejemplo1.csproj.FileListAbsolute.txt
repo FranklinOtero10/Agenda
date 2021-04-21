@@ -1,0 +1,13 @@
+D:\Escritorio\Ejemplos\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+D:\Escritorio\Ejemplos\Ejemplo1\bin\Debug\Ejemplo1.exe
+D:\Escritorio\Ejemplos\Ejemplo1\bin\Debug\Ejemplo1.pdb
+D:\Escritorio\Ejemplos\Ejemplo1\obj\Debug\Ejemplo1.csprojResolveAssemblyReference.cache
+D:\Escritorio\Ejemplos\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+D:\Escritorio\Ejemplos\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.Cache
+D:\Escritorio\Ejemplos\Ejemplo1\obj\Debug\Ejemplo1.exe
+D:\Escritorio\Ejemplos\Ejemplo1\obj\Debug\Ejemplo1.pdb
+D:\Escritorio\Ejemplos\Ejemplo1\obj\Debug\Ejemplo1.ContactoEdicion.resources
+D:\Escritorio\Ejemplos\Ejemplo1\obj\Debug\Ejemplo1.ContactosGestion.resources
+C:\Users\user\Desktop\Ejemplos\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\user\Desktop\Ejemplos\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\user\Desktop\Ejemplos\Ejemplo1\obj\Debug\Ejemplo1.pdb
